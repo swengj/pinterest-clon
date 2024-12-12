@@ -109,7 +109,8 @@ header nav{
 }
 .card-image:hover > *{ /*todos los hijos de card-image tendrán estos estilos*/
   visibility: visible;
-  display: inline;  
+  display: inline;
+  cursor: pointer;
 }
 .button{
   position: absolute;
